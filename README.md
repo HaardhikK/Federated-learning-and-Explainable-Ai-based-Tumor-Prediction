@@ -12,5 +12,5 @@ To enhance interpretability, **Explainable AI (XAI) techniques, LIME and SHAP**,
 - `torchvision` – Pre-trained model support (ResNet50)  
 - `opencv (cv2)` – Image preprocessing (grayscale conversion, contour detection, cropping)  
 - `shap` – SHAP (Shapley Additive Explanations) for feature importance visualization  
-- `lime (from lime import lime_image)` – LIME (Local Interpretable Model-Agnostic Explanations) for explainability in image classification  
+- `lime` – LIME (Local Interpretable Model-Agnostic Explanations) for explainability in image classification  
 
